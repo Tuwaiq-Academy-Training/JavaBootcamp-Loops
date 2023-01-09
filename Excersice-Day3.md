@@ -1,5 +1,5 @@
 # 1.Write a Java program to print the numbers from 100 to 30
-	### tip: use iteration
+### tip: use iteration
   
   
   
